@@ -1,0 +1,143 @@
+
+#brand{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(38, 126, 126);
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.description-content > p {
+    /* Box-model */
+    padding-top: 20px;
+    /* Typography */
+    font-size: 16px;
+    line-height: 30px;
+    color: slategray;
+  }
+
+  #description-image {
+    /* Positioning */
+    float: left;
+    /* Box-model */
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+
+  #imageNav-area {
+    width: 100%;
+    /* Box-model */
+    padding: 30px 30px 43px;
+    /* Positioning */
+    margin-top: 52px;
+    /* Visual */
+    background-color: #fff;
+  }
+
+  .description-content {
+    /* Box-model */
+    padding: 30px;
+    /* Positioning */
+    margin-top: 32px;
+    /* Visual */
+    background-color: #fff;
+  }
+
+
+  .description-header {
+    /* Positioning */
+    margin-bottom: 33px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    /* Typography */
+    font-size: 32px;
+    font-weight: bold;
+    color: #4aaaa5;
+    text-align: justify;
+  }
+
+  .imageNav-header {
+    /* Positioning */
+
+    margin-bottom: 15px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    /* Typography */
+    font-size: 25px;
+    font-weight: bold;
+    color: #4aaaa5;
+    text-align: center;
+  }
+
+  #images {
+    /* Box-model */
+    padding-top: 15px;
+    /* Typography */
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 20px;
+    float: right;
+
+  }
+
+  #subheader{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 24px;
+      color: rgb(62, 58, 58);
+      font-weight: bolder;
+  }
+
+  #comparison-header{
+      text-align: center;
+      color: #4aaaa5;
+      font-weight: bolder;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .comparison-content{
+          /* Box-model */
+    padding-top: 20px;
+    /* Typography */
+    font-size: 16px;
+    line-height: 30px;
+    color: slategray;
+    position: absolute;
+
+  }
+
+  #comparison-image{
+        /* Box-model */
+    padding-top: 15px;
+    /* Typography */
+    text-align: center;
+    width: 350x;
+    height: 350px;
+    margin-top: 20px;
+    margin-right: 20px;
+
+  }
+
+  #article_1, #article_2, #article_3, #article_4{
+      display: inline-block;
+
+  }
+
+  #comparison-table{
+      text-align: center;
+      color: #4aaaa5;
+      font-weight: bold;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 30px;
+  }
+
+  #comparison-col{
+      margin-left: 200px;
+      margin-right: 200px;
+  }
